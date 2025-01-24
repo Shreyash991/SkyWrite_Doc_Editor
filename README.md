@@ -1,4 +1,4 @@
- SkyWrite
+# SkyWrite
 **SkyWrite** is a Full Stack Document Editor App that allows users to create, edit, and manage documents seamlessly. It integrates the **Jodit WYSIWYG editor** for rich text formatting and employs **Vite** to optimize the build process.
 
 ## Tech Stack
